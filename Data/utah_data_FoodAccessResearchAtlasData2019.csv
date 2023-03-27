@@ -1,0 +1,586 @@
+CensusTract,State,County,Urban,LATracts_half
+49001100100,Utah,Beaver County,0,0
+49001100200,Utah,Beaver County,0,0
+49003960100,Utah,Box Elder County,0,0
+49003960200,Utah,Box Elder County,0,0
+49003960300,Utah,Box Elder County,1,1
+49003960400,Utah,Box Elder County,0,0
+49003960500,Utah,Box Elder County,1,1
+49003960601,Utah,Box Elder County,1,1
+49003960602,Utah,Box Elder County,0,0
+49003960701,Utah,Box Elder County,1,1
+49003960702,Utah,Box Elder County,1,1
+49003960801,Utah,Box Elder County,0,0
+49003960802,Utah,Box Elder County,1,1
+49005000101,Utah,Cache County,0,0
+49005000102,Utah,Cache County,0,0
+49005000201,Utah,Cache County,1,1
+49005000202,Utah,Cache County,1,1
+49005000300,Utah,Cache County,0,0
+49005000401,Utah,Cache County,1,1
+49005000402,Utah,Cache County,0,0
+49005000403,Utah,Cache County,1,1
+49005000501,Utah,Cache County,1,1
+49005000502,Utah,Cache County,1,1
+49005000600,Utah,Cache County,1,1
+49005000701,Utah,Cache County,1,1
+49005000702,Utah,Cache County,1,1
+49005000800,Utah,Cache County,1,1
+49005000900,Utah,Cache County,1,1
+49005001001,Utah,Cache County,1,1
+49005001002,Utah,Cache County,1,1
+49005001101,Utah,Cache County,1,1
+49005001102,Utah,Cache County,1,1
+49005001201,Utah,Cache County,1,1
+49005001202,Utah,Cache County,1,1
+49005001300,Utah,Cache County,0,0
+49005001401,Utah,Cache County,1,1
+49005001402,Utah,Cache County,1,1
+49005001500,Utah,Cache County,0,0
+49005980100,Utah,Cache County,0,0
+49007000100,Utah,Carbon County,0,0
+49007000200,Utah,Carbon County,0,0
+49007000300,Utah,Carbon County,1,1
+49007000500,Utah,Carbon County,1,1
+49007000600,Utah,Carbon County,0,0
+49009960100,Utah,Daggett County,0,0
+49011125102,Utah,Davis County,0,0
+49011125103,Utah,Davis County,1,1
+49011125104,Utah,Davis County,1,1
+49011125200,Utah,Davis County,1,1
+49011125301,Utah,Davis County,1,1
+49011125303,Utah,Davis County,1,1
+49011125304,Utah,Davis County,1,1
+49011125305,Utah,Davis County,1,1
+49011125401,Utah,Davis County,1,1
+49011125403,Utah,Davis County,1,1
+49011125405,Utah,Davis County,1,1
+49011125406,Utah,Davis County,1,1
+49011125501,Utah,Davis County,1,0
+49011125502,Utah,Davis County,1,1
+49011125503,Utah,Davis County,1,1
+49011125600,Utah,Davis County,1,1
+49011125701,Utah,Davis County,1,1
+49011125702,Utah,Davis County,1,1
+49011125801,Utah,Davis County,1,1
+49011125804,Utah,Davis County,1,1
+49011125805,Utah,Davis County,1,1
+49011125807,Utah,Davis County,1,1
+49011125808,Utah,Davis County,1,1
+49011125905,Utah,Davis County,1,1
+49011125906,Utah,Davis County,1,1
+49011125907,Utah,Davis County,1,1
+49011125908,Utah,Davis County,1,1
+49011126001,Utah,Davis County,1,1
+49011126002,Utah,Davis County,1,1
+49011126101,Utah,Davis County,1,1
+49011126104,Utah,Davis County,1,1
+49011126105,Utah,Davis County,1,1
+49011126202,Utah,Davis County,1,1
+49011126203,Utah,Davis County,1,1
+49011126204,Utah,Davis County,1,1
+49011126303,Utah,Davis County,1,1
+49011126304,Utah,Davis County,1,1
+49011126305,Utah,Davis County,1,1
+49011126306,Utah,Davis County,1,1
+49011126402,Utah,Davis County,1,1
+49011126404,Utah,Davis County,1,1
+49011126405,Utah,Davis County,1,1
+49011126406,Utah,Davis County,1,1
+49011126500,Utah,Davis County,1,1
+49011126600,Utah,Davis County,1,1
+49011126700,Utah,Davis County,1,1
+49011126801,Utah,Davis County,1,1
+49011126802,Utah,Davis County,1,1
+49011126901,Utah,Davis County,1,1
+49011126902,Utah,Davis County,1,1
+49011127002,Utah,Davis County,1,1
+49011127003,Utah,Davis County,0,0
+49011127004,Utah,Davis County,1,1
+49011127100,Utah,Davis County,1,1
+49013940300,Utah,Duchesne County,0,0
+49013940500,Utah,Duchesne County,1,1
+49013940600,Utah,Duchesne County,0,0
+49015976200,Utah,Emery County,0,0
+49015976300,Utah,Emery County,1,1
+49015976500,Utah,Emery County,0,0
+49017000300,Utah,Garfield County,0,0
+49017000400,Utah,Garfield County,0,0
+49019000200,Utah,Grand County,1,1
+49019000300,Utah,Grand County,0,0
+49021110100,Utah,Iron County,1,1
+49021110200,Utah,Iron County,1,1
+49021110300,Utah,Iron County,0,0
+49021110400,Utah,Iron County,1,1
+49021110500,Utah,Iron County,1,1
+49021110600,Utah,Iron County,1,1
+49021110701,Utah,Iron County,0,0
+49021110702,Utah,Iron County,0,0
+49023010100,Utah,Juab County,1,1
+49023010200,Utah,Juab County,0,0
+49025130100,Utah,Kane County,0,0
+49025130200,Utah,Kane County,1,1
+49027974100,Utah,Millard County,0,0
+49027974200,Utah,Millard County,0,0
+49027974300,Utah,Millard County,0,0
+49029970100,Utah,Morgan County,0,0
+49029970200,Utah,Morgan County,0,0
+49031960100,Utah,Piute County,0,0
+49033950100,Utah,Rich County,0,0
+49035100100,Utah,Salt Lake County,1,1
+49035100200,Utah,Salt Lake County,1,1
+49035100306,Utah,Salt Lake County,1,1
+49035100307,Utah,Salt Lake County,1,1
+49035100308,Utah,Salt Lake County,1,1
+49035100500,Utah,Salt Lake County,1,1
+49035100600,Utah,Salt Lake County,1,1
+49035100700,Utah,Salt Lake County,1,1
+49035100800,Utah,Salt Lake County,1,1
+49035101000,Utah,Salt Lake County,1,0
+49035101101,Utah,Salt Lake County,1,0
+49035101102,Utah,Salt Lake County,1,0
+49035101200,Utah,Salt Lake County,1,1
+49035101400,Utah,Salt Lake County,1,1
+49035101500,Utah,Salt Lake County,1,1
+49035101600,Utah,Salt Lake County,1,1
+49035101700,Utah,Salt Lake County,1,1
+49035101800,Utah,Salt Lake County,1,0
+49035101900,Utah,Salt Lake County,1,0
+49035102000,Utah,Salt Lake County,1,0
+49035102100,Utah,Salt Lake County,1,0
+49035102300,Utah,Salt Lake County,1,0
+49035102500,Utah,Salt Lake County,1,1
+49035102600,Utah,Salt Lake County,1,1
+49035102701,Utah,Salt Lake County,1,1
+49035102702,Utah,Salt Lake County,1,1
+49035102801,Utah,Salt Lake County,1,0
+49035102802,Utah,Salt Lake County,1,1
+49035102900,Utah,Salt Lake County,1,1
+49035103000,Utah,Salt Lake County,1,1
+49035103100,Utah,Salt Lake County,1,1
+49035103200,Utah,Salt Lake County,1,1
+49035103300,Utah,Salt Lake County,1,0
+49035103400,Utah,Salt Lake County,1,0
+49035103500,Utah,Salt Lake County,1,1
+49035103600,Utah,Salt Lake County,1,1
+49035103700,Utah,Salt Lake County,1,0
+49035103800,Utah,Salt Lake County,1,1
+49035103900,Utah,Salt Lake County,1,1
+49035104000,Utah,Salt Lake County,1,0
+49035104100,Utah,Salt Lake County,1,1
+49035104200,Utah,Salt Lake County,1,1
+49035104300,Utah,Salt Lake County,1,0
+49035104400,Utah,Salt Lake County,1,0
+49035104700,Utah,Salt Lake County,1,1
+49035104800,Utah,Salt Lake County,1,1
+49035104900,Utah,Salt Lake County,1,1
+49035110102,Utah,Salt Lake County,0,0
+49035110103,Utah,Salt Lake County,0,0
+49035110104,Utah,Salt Lake County,1,1
+49035110200,Utah,Salt Lake County,1,1
+49035110300,Utah,Salt Lake County,1,1
+49035110401,Utah,Salt Lake County,1,1
+49035110402,Utah,Salt Lake County,1,1
+49035110500,Utah,Salt Lake County,1,1
+49035110600,Utah,Salt Lake County,1,1
+49035110701,Utah,Salt Lake County,1,1
+49035110702,Utah,Salt Lake County,1,1
+49035110800,Utah,Salt Lake County,1,1
+49035110900,Utah,Salt Lake County,1,1
+49035111001,Utah,Salt Lake County,1,1
+49035111002,Utah,Salt Lake County,1,1
+49035111101,Utah,Salt Lake County,1,1
+49035111102,Utah,Salt Lake County,1,1
+49035111103,Utah,Salt Lake County,1,1
+49035111201,Utah,Salt Lake County,1,0
+49035111202,Utah,Salt Lake County,1,1
+49035111302,Utah,Salt Lake County,1,1
+49035111304,Utah,Salt Lake County,1,1
+49035111305,Utah,Salt Lake County,1,1
+49035111306,Utah,Salt Lake County,1,1
+49035111400,Utah,Salt Lake County,1,1
+49035111500,Utah,Salt Lake County,1,1
+49035111600,Utah,Salt Lake County,1,1
+49035111701,Utah,Salt Lake County,1,1
+49035111702,Utah,Salt Lake County,1,1
+49035111801,Utah,Salt Lake County,1,1
+49035111802,Utah,Salt Lake County,1,1
+49035111903,Utah,Salt Lake County,1,1
+49035111904,Utah,Salt Lake County,1,0
+49035111905,Utah,Salt Lake County,1,1
+49035111906,Utah,Salt Lake County,1,1
+49035112001,Utah,Salt Lake County,1,1
+49035112002,Utah,Salt Lake County,1,1
+49035112100,Utah,Salt Lake County,1,1
+49035112201,Utah,Salt Lake County,1,1
+49035112202,Utah,Salt Lake County,1,1
+49035112301,Utah,Salt Lake County,1,1
+49035112302,Utah,Salt Lake County,1,1
+49035112402,Utah,Salt Lake County,1,1
+49035112403,Utah,Salt Lake County,1,1
+49035112404,Utah,Salt Lake County,1,1
+49035112501,Utah,Salt Lake County,1,1
+49035112502,Utah,Salt Lake County,1,0
+49035112503,Utah,Salt Lake County,1,1
+49035112604,Utah,Salt Lake County,1,1
+49035112605,Utah,Salt Lake County,1,1
+49035112608,Utah,Salt Lake County,1,1
+49035112609,Utah,Salt Lake County,1,1
+49035112610,Utah,Salt Lake County,1,1
+49035112611,Utah,Salt Lake County,1,1
+49035112612,Utah,Salt Lake County,1,1
+49035112613,Utah,Salt Lake County,1,1
+49035112614,Utah,Salt Lake County,1,1
+49035112615,Utah,Salt Lake County,1,1
+49035112616,Utah,Salt Lake County,1,1
+49035112617,Utah,Salt Lake County,1,1
+49035112618,Utah,Salt Lake County,1,1
+49035112619,Utah,Salt Lake County,1,1
+49035112700,Utah,Salt Lake County,1,1
+49035112804,Utah,Salt Lake County,1,1
+49035112805,Utah,Salt Lake County,1,1
+49035112810,Utah,Salt Lake County,1,1
+49035112812,Utah,Salt Lake County,1,1
+49035112813,Utah,Salt Lake County,1,1
+49035112814,Utah,Salt Lake County,1,1
+49035112815,Utah,Salt Lake County,1,1
+49035112816,Utah,Salt Lake County,1,1
+49035112817,Utah,Salt Lake County,1,1
+49035112818,Utah,Salt Lake County,1,1
+49035112819,Utah,Salt Lake County,1,1
+49035112820,Utah,Salt Lake County,1,1
+49035112821,Utah,Salt Lake County,1,1
+49035112822,Utah,Salt Lake County,1,1
+49035112823,Utah,Salt Lake County,1,1
+49035112904,Utah,Salt Lake County,1,1
+49035112905,Utah,Salt Lake County,1,1
+49035112907,Utah,Salt Lake County,1,1
+49035112912,Utah,Salt Lake County,1,1
+49035112913,Utah,Salt Lake County,1,1
+49035112914,Utah,Salt Lake County,1,1
+49035112916,Utah,Salt Lake County,1,1
+49035112917,Utah,Salt Lake County,1,1
+49035112918,Utah,Salt Lake County,1,1
+49035112920,Utah,Salt Lake County,1,1
+49035112921,Utah,Salt Lake County,1,1
+49035113007,Utah,Salt Lake County,1,1
+49035113008,Utah,Salt Lake County,1,1
+49035113010,Utah,Salt Lake County,1,1
+49035113011,Utah,Salt Lake County,1,1
+49035113012,Utah,Salt Lake County,1,1
+49035113013,Utah,Salt Lake County,1,1
+49035113014,Utah,Salt Lake County,1,1
+49035113016,Utah,Salt Lake County,1,1
+49035113017,Utah,Salt Lake County,1,1
+49035113019,Utah,Salt Lake County,1,1
+49035113020,Utah,Salt Lake County,1,1
+49035113101,Utah,Salt Lake County,1,1
+49035113102,Utah,Salt Lake County,1,1
+49035113105,Utah,Salt Lake County,0,0
+49035113107,Utah,Salt Lake County,1,1
+49035113108,Utah,Salt Lake County,1,1
+49035113305,Utah,Salt Lake County,1,1
+49035113306,Utah,Salt Lake County,1,0
+49035113307,Utah,Salt Lake County,1,1
+49035113308,Utah,Salt Lake County,1,1
+49035113309,Utah,Salt Lake County,1,1
+49035113310,Utah,Salt Lake County,1,0
+49035113406,Utah,Salt Lake County,1,1
+49035113407,Utah,Salt Lake County,1,1
+49035113408,Utah,Salt Lake County,1,1
+49035113409,Utah,Salt Lake County,1,1
+49035113410,Utah,Salt Lake County,1,1
+49035113411,Utah,Salt Lake County,1,1
+49035113412,Utah,Salt Lake County,1,1
+49035113413,Utah,Salt Lake County,1,1
+49035113505,Utah,Salt Lake County,1,1
+49035113509,Utah,Salt Lake County,1,1
+49035113510,Utah,Salt Lake County,1,1
+49035113511,Utah,Salt Lake County,1,1
+49035113512,Utah,Salt Lake County,1,1
+49035113513,Utah,Salt Lake County,1,1
+49035113514,Utah,Salt Lake County,1,1
+49035113515,Utah,Salt Lake County,1,1
+49035113520,Utah,Salt Lake County,1,1
+49035113521,Utah,Salt Lake County,1,1
+49035113522,Utah,Salt Lake County,1,1
+49035113523,Utah,Salt Lake County,1,1
+49035113525,Utah,Salt Lake County,1,1
+49035113526,Utah,Salt Lake County,1,1
+49035113527,Utah,Salt Lake County,1,0
+49035113528,Utah,Salt Lake County,1,1
+49035113532,Utah,Salt Lake County,1,1
+49035113533,Utah,Salt Lake County,1,1
+49035113534,Utah,Salt Lake County,1,1
+49035113535,Utah,Salt Lake County,1,1
+49035113536,Utah,Salt Lake County,1,0
+49035113537,Utah,Salt Lake County,1,1
+49035113538,Utah,Salt Lake County,1,1
+49035113539,Utah,Salt Lake County,1,1
+49035113600,Utah,Salt Lake County,1,1
+49035113701,Utah,Salt Lake County,1,1
+49035113702,Utah,Salt Lake County,1,1
+49035113801,Utah,Salt Lake County,1,1
+49035113802,Utah,Salt Lake County,1,1
+49035113803,Utah,Salt Lake County,1,1
+49035113903,Utah,Salt Lake County,1,1
+49035113904,Utah,Salt Lake County,1,1
+49035113905,Utah,Salt Lake County,1,1
+49035113906,Utah,Salt Lake County,1,1
+49035113907,Utah,Salt Lake County,1,1
+49035114000,Utah,Salt Lake County,1,1
+49035114100,Utah,Salt Lake County,1,1
+49035114200,Utah,Salt Lake County,1,1
+49035114300,Utah,Salt Lake County,1,1
+49035114500,Utah,Salt Lake County,1,1
+49035114600,Utah,Salt Lake County,1,1
+49035114700,Utah,Salt Lake County,1,1
+49035114800,Utah,Salt Lake County,0,0
+49035115106,Utah,Salt Lake County,1,1
+49035115209,Utah,Salt Lake County,1,1
+49037942000,Utah,San Juan County,0,0
+49037942100,Utah,San Juan County,0,0
+49037978100,Utah,San Juan County,0,0
+49037978200,Utah,San Juan County,0,0
+49039972100,Utah,Sanpete County,0,0
+49039972200,Utah,Sanpete County,0,0
+49039972300,Utah,Sanpete County,1,1
+49039972400,Utah,Sanpete County,1,1
+49039972500,Utah,Sanpete County,0,0
+49041975100,Utah,Sevier County,0,0
+49041975200,Utah,Sevier County,0,0
+49041975300,Utah,Sevier County,1,1
+49041975400,Utah,Sevier County,0,0
+49041975500,Utah,Sevier County,0,0
+49043964101,Utah,Summit County,0,0
+49043964102,Utah,Summit County,0,0
+49043964201,Utah,Summit County,1,1
+49043964202,Utah,Summit County,0,0
+49043964203,Utah,Summit County,0,0
+49043964303,Utah,Summit County,1,1
+49043964304,Utah,Summit County,1,1
+49043964305,Utah,Summit County,0,0
+49043964306,Utah,Summit County,0,0
+49043964307,Utah,Summit County,0,0
+49043964308,Utah,Summit County,1,1
+49043964401,Utah,Summit County,0,0
+49043964402,Utah,Summit County,1,1
+49045130600,Utah,Tooele County,0,0
+49045130701,Utah,Tooele County,0,0
+49045130702,Utah,Tooele County,0,0
+49045130703,Utah,Tooele County,0,0
+49045130800,Utah,Tooele County,1,1
+49045130900,Utah,Tooele County,1,1
+49045131001,Utah,Tooele County,1,1
+49045131002,Utah,Tooele County,1,1
+49045131100,Utah,Tooele County,1,1
+49045131200,Utah,Tooele County,1,1
+49047940201,Utah,Uintah County,0,0
+49047968200,Utah,Uintah County,0,0
+49047968301,Utah,Uintah County,1,1
+49047968302,Utah,Uintah County,0,0
+49047968401,Utah,Uintah County,1,1
+49047968402,Utah,Uintah County,1,1
+49049000102,Utah,Utah County,1,1
+49049000103,Utah,Utah County,1,1
+49049000104,Utah,Utah County,1,1
+49049000105,Utah,Utah County,1,1
+49049000203,Utah,Utah County,1,1
+49049000204,Utah,Utah County,1,1
+49049000205,Utah,Utah County,1,1
+49049000206,Utah,Utah County,1,1
+49049000400,Utah,Utah County,1,1
+49049000504,Utah,Utah County,1,1
+49049000505,Utah,Utah County,1,1
+49049000506,Utah,Utah County,1,1
+49049000507,Utah,Utah County,1,1
+49049000508,Utah,Utah County,1,1
+49049000509,Utah,Utah County,1,1
+49049000601,Utah,Utah County,1,1
+49049000603,Utah,Utah County,1,1
+49049000604,Utah,Utah County,1,1
+49049000703,Utah,Utah County,1,1
+49049000706,Utah,Utah County,1,1
+49049000707,Utah,Utah County,1,1
+49049000708,Utah,Utah County,1,1
+49049000709,Utah,Utah County,1,1
+49049000710,Utah,Utah County,1,1
+49049000711,Utah,Utah County,1,1
+49049000801,Utah,Utah County,1,1
+49049000802,Utah,Utah County,1,1
+49049000901,Utah,Utah County,1,1
+49049000903,Utah,Utah County,1,1
+49049000904,Utah,Utah County,1,1
+49049001001,Utah,Utah County,1,1
+49049001002,Utah,Utah County,1,1
+49049001103,Utah,Utah County,1,1
+49049001105,Utah,Utah County,1,1
+49049001106,Utah,Utah County,1,1
+49049001107,Utah,Utah County,1,1
+49049001108,Utah,Utah County,1,1
+49049001201,Utah,Utah County,1,1
+49049001202,Utah,Utah County,1,1
+49049001300,Utah,Utah County,1,1
+49049001401,Utah,Utah County,1,1
+49049001402,Utah,Utah County,1,0
+49049001501,Utah,Utah County,1,1
+49049001503,Utah,Utah County,1,1
+49049001504,Utah,Utah County,1,1
+49049001601,Utah,Utah County,1,1
+49049001602,Utah,Utah County,1,1
+49049001603,Utah,Utah County,1,1
+49049001701,Utah,Utah County,1,1
+49049001702,Utah,Utah County,1,1
+49049001801,Utah,Utah County,1,1
+49049001802,Utah,Utah County,1,1
+49049001803,Utah,Utah County,1,1
+49049001900,Utah,Utah County,1,0
+49049002000,Utah,Utah County,1,1
+49049002101,Utah,Utah County,1,1
+49049002102,Utah,Utah County,1,1
+49049002201,Utah,Utah County,1,1
+49049002204,Utah,Utah County,1,1
+49049002205,Utah,Utah County,1,1
+49049002206,Utah,Utah County,1,1
+49049002207,Utah,Utah County,1,1
+49049002300,Utah,Utah County,1,0
+49049002400,Utah,Utah County,1,0
+49049002500,Utah,Utah County,1,1
+49049002701,Utah,Utah County,1,1
+49049002702,Utah,Utah County,1,1
+49049002801,Utah,Utah County,1,1
+49049002802,Utah,Utah County,1,1
+49049002901,Utah,Utah County,1,1
+49049002902,Utah,Utah County,1,1
+49049003001,Utah,Utah County,1,1
+49049003002,Utah,Utah County,1,1
+49049003103,Utah,Utah County,1,1
+49049003104,Utah,Utah County,1,1
+49049003105,Utah,Utah County,1,1
+49049003106,Utah,Utah County,1,1
+49049003201,Utah,Utah County,1,0
+49049003203,Utah,Utah County,1,1
+49049003204,Utah,Utah County,1,1
+49049003205,Utah,Utah County,1,1
+49049003300,Utah,Utah County,1,1
+49049003401,Utah,Utah County,1,1
+49049003402,Utah,Utah County,1,1
+49049003403,Utah,Utah County,1,1
+49049010103,Utah,Utah County,1,1
+49049010104,Utah,Utah County,1,1
+49049010105,Utah,Utah County,1,1
+49049010106,Utah,Utah County,1,1
+49049010107,Utah,Utah County,0,0
+49049010108,Utah,Utah County,1,1
+49049010109,Utah,Utah County,1,1
+49049010110,Utah,Utah County,1,1
+49049010111,Utah,Utah County,0,0
+49049010112,Utah,Utah County,1,1
+49049010113,Utah,Utah County,1,1
+49049010208,Utah,Utah County,1,1
+49049010209,Utah,Utah County,1,1
+49049010210,Utah,Utah County,1,1
+49049010211,Utah,Utah County,1,1
+49049010212,Utah,Utah County,0,0
+49049010213,Utah,Utah County,1,1
+49049010214,Utah,Utah County,1,1
+49049010215,Utah,Utah County,1,1
+49049010216,Utah,Utah County,1,1
+49049010217,Utah,Utah County,0,0
+49049010218,Utah,Utah County,1,1
+49049010219,Utah,Utah County,1,1
+49049010220,Utah,Utah County,1,1
+49049010303,Utah,Utah County,1,1
+49049010304,Utah,Utah County,0,0
+49049010305,Utah,Utah County,1,1
+49049010404,Utah,Utah County,1,1
+49049010405,Utah,Utah County,1,1
+49049010406,Utah,Utah County,1,1
+49049010407,Utah,Utah County,1,1
+49049010408,Utah,Utah County,1,1
+49049010409,Utah,Utah County,1,1
+49049010410,Utah,Utah County,1,1
+49049010411,Utah,Utah County,0,0
+49049010503,Utah,Utah County,0,0
+49049010504,Utah,Utah County,0,0
+49049010505,Utah,Utah County,1,1
+49049010506,Utah,Utah County,1,1
+49049010600,Utah,Utah County,0,0
+49049010700,Utah,Utah County,1,1
+49049010900,Utah,Utah County,0,0
+49051940500,Utah,Wasatch County,1,1
+49051960100,Utah,Wasatch County,1,1
+49051960200,Utah,Wasatch County,1,1
+49051960400,Utah,Wasatch County,1,1
+49053270100,Utah,Washington County,0,0
+49053270200,Utah,Washington County,0,0
+49053270300,Utah,Washington County,1,1
+49053270400,Utah,Washington County,1,1
+49053270500,Utah,Washington County,1,1
+49053270600,Utah,Washington County,1,1
+49053270700,Utah,Washington County,1,1
+49053270801,Utah,Washington County,1,1
+49053270802,Utah,Washington County,0,0
+49053270901,Utah,Washington County,1,1
+49053270902,Utah,Washington County,1,1
+49053271000,Utah,Washington County,1,1
+49053271100,Utah,Washington County,1,1
+49053271200,Utah,Washington County,1,1
+49053271300,Utah,Washington County,1,1
+49053271400,Utah,Washington County,1,1
+49053271500,Utah,Washington County,1,1
+49053271600,Utah,Washington County,1,1
+49053271701,Utah,Washington County,1,1
+49053271702,Utah,Washington County,0,0
+49053271800,Utah,Washington County,1,1
+49055979100,Utah,Wayne County,0,0
+49057200100,Utah,Weber County,1,1
+49057200202,Utah,Weber County,1,1
+49057200203,Utah,Weber County,1,1
+49057200204,Utah,Weber County,1,1
+49057200300,Utah,Weber County,1,1
+49057200400,Utah,Weber County,1,0
+49057200500,Utah,Weber County,1,1
+49057200600,Utah,Weber County,1,1
+49057200700,Utah,Weber County,1,1
+49057200800,Utah,Weber County,1,1
+49057200900,Utah,Weber County,1,1
+49057201100,Utah,Weber County,1,1
+49057201200,Utah,Weber County,1,0
+49057201301,Utah,Weber County,1,0
+49057201302,Utah,Weber County,1,1
+49057201400,Utah,Weber County,1,1
+49057201500,Utah,Weber County,1,1
+49057201600,Utah,Weber County,1,1
+49057201700,Utah,Weber County,1,1
+49057201800,Utah,Weber County,1,0
+49057201900,Utah,Weber County,1,1
+49057202000,Utah,Weber County,1,1
+49057210100,Utah,Weber County,0,0
+49057210201,Utah,Weber County,1,1
+49057210203,Utah,Weber County,1,1
+49057210204,Utah,Weber County,1,1
+49057210302,Utah,Weber County,1,1
+49057210303,Utah,Weber County,1,1
+49057210304,Utah,Weber County,1,1
+49057210402,Utah,Weber County,1,1
+49057210403,Utah,Weber County,1,1
+49057210404,Utah,Weber County,0,0
+49057210504,Utah,Weber County,1,1
+49057210505,Utah,Weber County,0,0
+49057210506,Utah,Weber County,1,1
+49057210508,Utah,Weber County,1,0
+49057210509,Utah,Weber County,1,1
+49057210510,Utah,Weber County,1,1
+49057210511,Utah,Weber County,1,1
+49057210512,Utah,Weber County,1,1
+49057210600,Utah,Weber County,1,1
+49057210701,Utah,Weber County,1,1
+49057210703,Utah,Weber County,1,1
+49057210704,Utah,Weber County,1,1
+49057210800,Utah,Weber County,1,1
+49057210900,Utah,Weber County,1,1
+49057211000,Utah,Weber County,1,1
+49057211100,Utah,Weber County,1,1
+49057211201,Utah,Weber County,1,1
+49057211202,Utah,Weber County,1,1
