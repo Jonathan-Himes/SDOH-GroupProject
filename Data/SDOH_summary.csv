@@ -1,0 +1,49 @@
+﻿Item,Description,Source,2018 Availability,2019 Availability
+FIPS,US Census 11 digit FIPS code for tract,US Census,YES,YES
+Urban,Urban/Rural Flag,USDA Food Access Research Atlas,,
+Total_population,Total Population,ACS 2015 Estimates,YES,YES
+P_WH,% White,ACS 2015 Estimates,YES,YES
+P_AA,% African-American,ACS 2015 Estimates,YES,YES
+P_AI,% American Indian,ACS 2015 Estimates,YES,YES
+P_AS,% Asian,ACS 2015 Estimates,YES,YES
+P_NH,% Native Hawaiian/Pacific Islander,ACS 2015 Estimates,YES,YES
+P_OR,% Other Race,ACS 2015 Estimates,YES,YES
+P_2R,% 2 or more Races,ACS 2015 Estimates,YES,YES
+P_Latino,% Latino/Hispanic Ethnicity,ACS 2015 Estimates,YES,YES
+P_native,% Native Born in US,ACS 2015 Estimates,YES,YES
+P_FB,% Foreign Born,ACS 2015 Estimates,YES,YES
+P_citizen,% US Citizen,ACS 2015 Estimates,YES,YES
+P_non-citizen,% Non-citizen,ACS 2015 Estimates,YES,YES
+P_NoSchool,% No schooling,ACS 2015 Estimates,YES,YES
+P_HS_no_degree,"% completed high school, no degree",ACS 2015 Estimates,YES,YES
+P_HS_or_GED,% High school or GED degree,ACS 2015 Estimates,YES,YES
+P_some_college,"% Some college, no degree",ACS 2015 Estimates,YES,YES
+P_college_degree,% AA or BA,ACS 2015 Estimates,YES,YES
+P_Masters_prof_doc,"% Masters, professional, doctorate",ACS 2015 Estimates,YES,YES
+P_limited_eng,% Limited English proficiency,ACS 2015 Estimates,YES,YES
+Poverty_rate,% in poverty,ACS 2015 Estimates,YES,YES
+MED_HH_income,Median Household Income,ACS 2015 Estimates,YES,YES
+UE_rate,Unemployment rate,ACS 2015 Estimates,YES,YES
+P_UI,% Uninsured (health),ACS 2015 Estimates,YES,YES
+P_Insured,% Insured,ACS 2015 Estimates,YES,YES
+P_UI_under_18,"% Uninsured, <18 yo",ACS 2015 Estimates,YES,YES
+P_UI_18-64,"% Uninsured, age 18-64",ACS 2015 Estimates,YES,YES
+P_UI_65_over,"% Uninsured, over 65",ACS 2015 Estimates,YES,YES
+P_any_private_ins,"% Any private insurance, all ages",ACS 2015 Estimates,YES,YES
+P_any_public_ins,"% Any public insurance, all ages",ACS 2015 Estimates,YES,YES
+P_Medicare_alone,% Medicare only,ACS 2015 Estimates,YES,YES
+P_Medicaid_alone,% Medicaid only,ACS 2015 Estimates,YES,YES
+Resp_HI,Respiratory Hazad Index,EPA National Air Toxics Assessment,YES,YES
+Low_access,Low access to healthy food (1/2 mile),USDA Food Access Research Atlas,,
+Park_distance,Population-weighted distance to closest 7 parks,CDC,,
+Walkscore,Neighborhood walkability scale,Rundle- Columbia BEH,YES,YES
+Walkscore_percentile,Percentile of walkabiliity (higher better),Rundle- Columbia BEH,,
+Tob_retailer_per_1000,Tobacco retailers/1000 population,NYS open data- active tobacco retailers,,
+Crime_per_1000,# of 7 serious crimes /1000 population,NYC open data nypd all felony incidents geocoded,,
+GINI,GINI inequality index,US Census,,
+SVI_themes_total,Social Vulnerability index- total themes percentile- higher is more vulnerable,CDC SVI,,
+SVI_flags,Social Vulnerability index- score for flags,CDC SVI,,
+Housing_violations_per_1000,Housing violations per 1000 rental units,Furman center,,
+Voter Turnout,Voter Turnout,BOE (by state assembly district 2014),,
+Turnout quartile,Turnout Quartile,BOE calculated,,
+,,,,
