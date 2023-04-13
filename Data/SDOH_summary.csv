@@ -1,6 +1,6 @@
 ﻿Item,Description,Source,2018 Availability,2019 Availability
 FIPS,US Census 11 digit FIPS code for tract,US Census,YES,YES
-Urban,Urban/Rural Flag,USDA Food Access Research Atlas,,
+Urban,Urban/Rural Flag,USDA Food Access Research Atlas,NO,YES
 Total_population,Total Population,ACS 2015 Estimates,YES,YES
 P_WH,% White,ACS 2015 Estimates,YES,YES
 P_AA,% African-American,ACS 2015 Estimates,YES,YES
@@ -34,16 +34,8 @@ P_any_public_ins,"% Any public insurance, all ages",ACS 2015 Estimates,YES,YES
 P_Medicare_alone,% Medicare only,ACS 2015 Estimates,YES,YES
 P_Medicaid_alone,% Medicaid only,ACS 2015 Estimates,YES,YES
 Resp_HI,Respiratory Hazad Index,EPA National Air Toxics Assessment,YES,YES
-Low_access,Low access to healthy food (1/2 mile),USDA Food Access Research Atlas,,
-Park_distance,Population-weighted distance to closest 7 parks,CDC,,
+Low_access,Low access to healthy food (1/2 mile),USDA Food Access Research Atlas,NO,YES
 Walkscore,Neighborhood walkability scale,Rundle- Columbia BEH,YES,YES
-Walkscore_percentile,Percentile of walkabiliity (higher better),Rundle- Columbia BEH,,
-Tob_retailer_per_1000,Tobacco retailers/1000 population,NYS open data- active tobacco retailers,,
-Crime_per_1000,# of 7 serious crimes /1000 population,NYC open data nypd all felony incidents geocoded,,
 GINI,GINI inequality index,US Census,,
-SVI_themes_total,Social Vulnerability index- total themes percentile- higher is more vulnerable,CDC SVI,,
-SVI_flags,Social Vulnerability index- score for flags,CDC SVI,,
-Housing_violations_per_1000,Housing violations per 1000 rental units,Furman center,,
-Voter Turnout,Voter Turnout,BOE (by state assembly district 2014),,
-Turnout quartile,Turnout Quartile,BOE calculated,,
-,,,,
+SVI_themes_total,Social Vulnerability index- total themes percentile- higher is more vulnerable,CDC SVI,YES,NO
+SVI_flags,Social Vulnerability index- score for flags,CDC SVI,YES,NO
