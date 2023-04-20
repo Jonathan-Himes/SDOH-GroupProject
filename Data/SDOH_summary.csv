@@ -36,6 +36,6 @@ P_Medicaid_alone,% Medicaid only,ACS 2015 Estimates,YES,YES
 Resp_HI,Respiratory Hazad Index,EPA National Air Toxics Assessment,YES,YES
 Low_access,Low access to healthy food (1/2 mile),USDA Food Access Research Atlas,NO,YES
 Walkscore,Neighborhood walkability scale,Rundle- Columbia BEH,YES,NO
-GINI,GINI inequality index,US Census,,
+GINI,GINI inequality index,US Census,YES,YES
 SVI_themes_total,Social Vulnerability index- total themes percentile- higher is more vulnerable,CDC SVI,YES,NO
 SVI_flags,Social Vulnerability index- score for flags,CDC SVI,YES,NO
